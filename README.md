@@ -4,6 +4,7 @@ This project provisions an AWS EC2 instance and security group using Terraform, 
 
 **📁 Project Structure**
 ├── main.tf # Contains provider, EC2 instance, and security group definitions
+
 ├── README.md # Project documentation
 
 
