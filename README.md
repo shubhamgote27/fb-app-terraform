@@ -23,4 +23,5 @@ This project provisions an AWS EC2 instance and security group using Terraform, 
 -Automatically outputs the EC2 public IP after creation.
 
 **📄 License**
+
 This project is open-source and free to use.
