@@ -3,6 +3,7 @@
 This project provisions an AWS EC2 instance and security group using Terraform, designed for running Kubernetes tools such as Kind, ArgoCD, and Grafana.
 
 **📁 Project Structure**
+
 ├── main.tf # Contains provider, EC2 instance, and security group definitions
 
 ├── README.md # Project documentation
